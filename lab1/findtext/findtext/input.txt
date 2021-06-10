@@ -1,0 +1,4 @@
+Hello dear friend.
+Hello.
+I started to learn C++.
+Goodbye friend, learn C++.
